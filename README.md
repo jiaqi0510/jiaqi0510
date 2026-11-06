@@ -1,4 +1,4 @@
-👋 Hi, I'm Jiaqi Han. I'm a bioinformatics PhD student at UCLA.
+👋 Hi, I'm Jiaqi Han. I'm a bioinformatics PhD student at UCLA.\\
 📫 How to reach me: jiaqihan05@g.ucla.edu
 
 <!--
