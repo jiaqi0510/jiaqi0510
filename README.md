@@ -1,4 +1,5 @@
-## Hi there 👋
+👋 Hi, I'm Jiaqi Han. I'm a bioinformatics PhD student at UCLA.
+📫 How to reach me: jiaqihan05@g.ucla.edu
 
 <!--
 **jiaqi0510/jiaqi0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
